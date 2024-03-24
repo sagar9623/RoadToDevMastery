@@ -5,7 +5,7 @@ Welcome to our beginner's guide to Git and GitHub. This document summarizes key 
 ## Tutorial Link
 YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
 
-My Repo: [Access the Reference here](https://github.com/sagar9623/Learn_Git-Version-Control-Mastery).
+My Repo: [Access for Reference](https://github.com/sagar9623/Learn_Git-Version-Control-Mastery).
 
 ## Key Learnings
 
