@@ -3,7 +3,7 @@
 ## Tutorial Link
 YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=qz0aGYrrlhU).
 
-My Repo:  [Access the Reference here](https://github.com/sagar9623/Learn_HTML).
+My Repo:  [Access for Reference](https://github.com/sagar9623/Learn_HTML).
 
 ## Introduction
 HTML (HyperText Markup Language) is the foundation of web development. It defines the structure and content of a web page. This README serves as a comprehensive guide to HTML development, covering essential concepts, tools, and best practices.
