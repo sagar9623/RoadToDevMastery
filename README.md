@@ -5,7 +5,7 @@ In this Firebase tutorial, You will discover how to create a Shopping Cart App u
 ## Tutorial Link
 YouTube: [Access the tutorial here](https://youtu.be/UFD4SP91tSM?si=r_B0NuD-vASqWjIE).
 
-My Repo: [Access the tutorial here](https://github.com/sagar9623/Learn_firebase).
+My Repo: [Access for Reference](https://github.com/sagar9623/Learn_firebase).
 
 A simple yet powerful Shopping Cart App built using HTML, CSS, and JavaScript, with Firebase integration for real-time updates.
 
