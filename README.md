@@ -6,7 +6,7 @@ This repository explores the fundamental concepts and functionalities of JavaScr
 
 YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3360s).
 
-My Repo: [Access the Reference here](https://github.com/sagar9623/Learn_JavaScript).
+My Repo: [Access for Reference](https://github.com/sagar9623/Learn_JavaScript).
 
 ## Topics Covered
 
