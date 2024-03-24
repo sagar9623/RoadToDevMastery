@@ -1,12 +1,12 @@
 # Firebase Tutorial: Real-time Database Integration
 
+## Overview
+In this Firebase tutorial, You will discover how to create a Shopping Cart App using HTML, CSS, and JavaScript. you'll learn how to make it come alive with real-time updates, thanks to Firebase integration. Throughout the tutorial, you'll grasp essential concepts, like managing data securely and crafting a dynamic user experience. Plus, you'll get insights into project organization, and usage instructions, and even contribute to collaborative projects.
+
 ## Tutorial Link
 YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=UFD4SP91tSM).
 
 My Repo: [Access for Reference](https://github.com/sagar9623/Learn_firebase).
-
-## Overview
-In this Firebase tutorial, You will discover how to create a Shopping Cart App using HTML, CSS, and JavaScript. you'll learn how to make it come alive with real-time updates, thanks to Firebase integration. Throughout the tutorial, you'll grasp essential concepts, like managing data securely and crafting a dynamic user experience. Plus, you'll get insights into project organization, and usage instructions, and even contribute to collaborative projects.
 
 ## What You'll Learn
 
