@@ -18,7 +18,6 @@ Introduction to Git submodules for managing complex projects with multiple repos
 ## Understanding Git and GitHub
 
 ### Git
-
 #### Core Platform
 Utilize Git for committing changes, checking status, and creating repositories.
 
@@ -32,7 +31,6 @@ Combine branches into a master or main branch for cohesive project management.
 Leverage Git submodules to incorporate and track a separate repository within a parent repository, ideal for including external libraries or plugins.
 
 ### GitHub
-
 #### Version Control
 Built on Git, GitHub provides a collaborative platform that tracks file changes over time, enabling teamwork without conflicts.
 
