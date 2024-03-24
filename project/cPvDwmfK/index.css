@@ -1,0 +1,77 @@
+/* Resetting default margin and padding for better consistency */
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+    background-color: #F6F6F6;
+    user-select: none;
+}
+
+/* Styling for the main container */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+}
+
+/* Styling for the product image */
+img {
+    width: 150px;
+    margin: 0 auto;
+}
+
+/* Styling for the input field */
+input {
+    color: #333;
+    background-color: #EDEDED;
+    border: 1px solid #CCC;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 0;
+    width: 100%;
+    box-sizing: border-box; /* Ensures padding and border are included in width */
+}
+
+/* Styling for the "Add to cart" button */
+button {
+    color: #FFF;
+    background-color: #8B4513; /* Brown color */
+    border: 0;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #703B21; /* Darker brown on hover */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul li {
+    font-size: 18px;
+    background-color: #FFF;
+    padding: 15px;
+    border-radius: 8px;
+    flex-grow: 1;
+    text-align: center;
+    box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+    margin: 5px;
+}
+
+ul li:hover {
+    background-color: #F0E68C; /* Light yellow on hover */
+    cursor: pointer;
+}

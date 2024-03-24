@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <title>Shopping Cart App</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Container for the main content -->
+        <img src="img/cat2.png" alt="product Image">
+        <!-- Image representing a product -->
+        <input type="text" id="input-field" placeholder="List">
+        <!-- Input field for the shopping list -->
+        <button id="push-button">Add to cart</button>
+        <!-- Button to add items to the cart -->
+        <ul id="shopping-list">
+            <!-- List to display the shopping items -->
+            <!-- Existing items will be displayed here -->
+        </ul>
+    </div>
+
+    <!-- Firebase scripts -->
+    <script src="https://www.gstatic.com/firebasejs/9.20.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.20.0/firebase-database.js"></script>
+
+    <!-- Your JavaScript files -->
+    <script src="function.js" type="module"></script>
+    <script src="index.js" defer type="module"></script>
+</body>
+</html>
