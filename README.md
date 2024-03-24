@@ -1,11 +1,11 @@
 # Git and GitHub for Beginners: A Comprehensive Guide
 
+Welcome to our beginner's guide to Git and GitHub. This document summarizes key insights and learnings from an engaging dive into the essentials of version control, collaboration, and project management with Git and GitHub.
+
 ## Tutorial Links
 
 - YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
 - My Repo: [Access for Reference](https://github.com/sagar9623/Learn_Git-Version-Control-Mastery).
-
-Welcome to our beginner's guide to Git and GitHub. This document summarizes key insights and learnings from an engaging dive into the essentials of version control, collaboration, and project management with Git and GitHub.
 
 ## Key Learnings
 
