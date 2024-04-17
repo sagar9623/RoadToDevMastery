@@ -18,7 +18,9 @@ This repository is organized into branches, each focusing on a specific aspect o
 
 3. **learn_JavaScript**: Take your web development skills to the next level with JavaScript. Explore the core concepts of programming, DOM manipulation, and asynchronous JavaScript to create dynamic and interactive web applications.
 
-6. **learn_firebase**: Discover Firebase, a powerful platform for building mobile and web applications. Learn how to leverage Firebase's features such as real-time database, authentication, hosting, and more to create scalable and engaging apps.
+4. **learn_firebase**: Discover Firebase, a powerful platform for building mobile and web applications. Learn how to leverage Firebase's features such as real-time database, authentication, hosting, and more to create scalable and engaging apps.
+
+5. **learn_MachineLearning**: Embark on a transformative journey into the realm of intelligent algorithms. Learn about Types of Learning Algorithms, Neural Networks, Hyperparameter Tuning, Batch Normalization, Regulariation, and many more exciting concepts.
 
 ## Getting Started
 
