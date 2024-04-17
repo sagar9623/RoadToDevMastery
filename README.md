@@ -20,7 +20,7 @@ This repository is organized into branches, each focusing on a specific aspect o
 
 4. **learn_firebase**: Discover Firebase, a powerful platform for building mobile and web applications. Learn how to leverage Firebase's features such as real-time database, authentication, hosting, and more to create scalable and engaging apps.
 
-5. **learn_MachineLearning**: Embark on a transformative journey into the realm of intelligent algorithms. Learn about Types of Learning Algorithms, Neural Networks, Hyperparameter Tuning, Batch Normalization, regularization, and many more exciting concepts.
+5. **learn_MachineLearning**: Embark on a transformative journey into the realm of intelligent algorithms. Learn about Types of Learning Algorithms, Neural Networks, Hyperparameter Tuning, Batch Normalization, Regularization, and many more exciting concepts.
 
 ## Getting Started
 
