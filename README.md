@@ -1,30 +1,168 @@
-# RoadToDevMastery
+# Macine Learning Fundamentals and Concepts
 
-Welcome to the Road to Dev Mastery repository! This is your ultimate destination for embarking on the journey to becoming a proficient developer, whether you aspire to specialize in front-end development, full-stack development, or any other area within the vast realm of software engineering.
+This branch explores the fundamental concepts and Machine Learning. Through various examples, exercises, and explanations, we aim to cover a wide range of topics from basics to more advanced features.
 
-## About
+## Prerequisites
 
-The Road to Dev Mastery repository is designed to provide you with a comprehensive roadmap and resources to guide you from absolute beginner to proficient developer. With a structured approach and carefully curated content, you'll gain the necessary skills and knowledge to excel in the ever-evolving field of technology.
+1. Python - Numpy, Pandas, Matplotlib, Scikit Learn, etc.
+2. Math - Linear Algebra, Statistics, Probability, Matrices, Derivatives
+3. Some idea about frameworks like Tensorflow or Pytorch is good to have but not necessary. 
 
-KINDLY TRANSITION TO DISTINCT BRANCHES TO ACCESS VARIED CONTENTS WITHIN THE REPOSITORY.
+## Tutorial Link
 
-## Repository Structure
+YouTube: [Machine Learning Specialization](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI).
 
-This repository is organized into branches, each focusing on a specific aspect of development. Here's a brief overview of the branches available:
+Coursera: [Deep Learnin Specializtion](https://www.coursera.org/specializations/deep-learning)
 
-1. **learn_Git-and-GitHub**: Start your journey by mastering the fundamentals of version control with Git and GitHub. Learn how to create repositories, collaborate with others, and manage your code effectively.
+## Topics Covered
 
-2. **learn_html_css**: Dive into the world of front-end development with HTML and CSS. Build a solid foundation in web design and learn how to create visually appealing and responsive websites.
+### Introduction to Machine Learning
 
-3. **learn_JavaScript**: Take your web development skills to the next level with JavaScript. Explore the core concepts of programming, DOM manipulation, and asynchronous JavaScript to create dynamic and interactive web applications.
+- Definition of Machine Learning
+- Supervised Learing
+- Unsupervised Learning
+- Linear Regression
+- Cost Function for Linear Regression
+- Gradient Descent
+- Learning Rate
 
-6. **learn_firebase**: Discover Firebase, a powerful platform for building mobile and web applications. Learn how to leverage Firebase's features such as real-time database, authentication, hosting, and more to create scalable and engaging apps.
+### Multi Variate Regression
 
-## Getting Started
+- Multiple Features
+- Vectorization
+- Feature Scaling
+- Feature Engineering
+- Polynomial Regression
 
-To begin your journey on the Road to Dev Mastery, simply navigate to the branch that aligns with your current skill level and interests. Each branch contains a curated list of resources, tutorials, and exercises to help you progress steadily towards your goals.
+### Classification
 
-Feel free to explore, experiment, and most importantly, enjoy the learning process. Remember, mastery takes time and dedication, but with perseverance, you'll unlock endless opportunities in the world of software development.
+- Logistic Regression
+- Decision Boundary
+- Cost Function for Logistic Regression
+- Overfitting
+- Regularizatin
 
-Happy coding!
-                    
+### Neuarl Networks
+
+- Coputation Graph
+- Activation Functions
+- Forward and Backward propogation
+- Random Initialization
+- Parameters vs Hyperparameters
+- 
+
+### Practical Aspects
+
+- Dataset Split
+- Bias and Variance
+- Dropout Regularization
+- Normalizing Inputs
+- Vanishing and Exploding Gradients
+  
+### Optimization Algorithms
+
+- Mini Batch Gradient Descent
+- Gradient Descent with Momentum
+- RMSprop
+- Adam Optimizer
+- Learning Rate Decay
+- Issues with Local Optima
+
+### Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+
+- Tuning process
+- Batch Norm
+- Tensorflow (you can use Pytorch too)
+
+### ML Strategy
+
+- Orthogonalizatin
+- Single Number Evaluation Metric
+- Satisficing and Optimizing Metric
+- Size of Dev and Test sets
+- Avoidable Bias
+- Error Analysis
+- Build Quickly and Iterate
+- Adresssing Data Mismatch
+- Transfer Learning
+- Multi-task Learning
+
+### Foundation of Convolutional Neural Network
+
+- Computer Vision
+- Edge Detection
+- Strides and Padding
+- Convolutions over Volume
+- Pooling
+
+### Neural Network Architectures
+- ResNet
+- Inception Network
+- MobileNet
+- EfficientNet
+- U-Net
+
+### Object Detection
+- Object Localization
+- Landmark Detection
+- Sliding Windows
+- Bounding Box Predictions
+- Intersection Over Union
+- Non-max Supression
+- Anchor Boxes
+- YOLO Algorithm
+- Transpose Conolutions
+
+### Face Detection
+- Siamese Network
+- Triple Loss
+- Face Verification and Binary Classification
+
+### Neural Style Transfer
+- Content Cost Function
+- Style Cost Function
+
+### Recurrent Neural Networks (RNN)
+- Backpropogation Through Time
+- Types of RNN
+- Language Model and Sequence Generation
+- Sampling Novel Sequences
+- Vanishing Gradients with RNNs
+- Gated Recurrent Units (GRU)
+- Long Short Term Memory (LSTM)
+- Bidirectional RNN
+
+### Natural Language Processing and Word Embeddings
+- Word Representation
+- Properties of Word Embeddings
+- Embedding Matrix
+- Word2Vec
+- Negative Sampling
+- GloVe Word Vectors
+- Sentiment Classification
+- Debiasing Word Embeddings
+
+### Sequence Model and Attention Mechanism
+- Beam Search and its refinements
+- Bleu Score
+- Attention Model
+- Speech Recognition
+- Trigger Word Detection
+
+### Transformer Models
+- Self Attention
+- Multi Head Attention
+- Pre-processing for Transformers
+- Named Entity Recognition
+- Question Answering
+
+## Contributing
+
+Contributions to enhance the learning experience or to add more topics are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped in building this resource.
+- Special thanks to the Machine Learning community for providing endless resources and support.
+
+Happy Coding! 🚀
